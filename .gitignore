@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+
+.env
+.env.*
+
+# Local weights
+models/
+
+# Outputs
+outputs/
+runs/
+
+# Generated datasets / intermediates
+data/marl_llm_dataset_*.json
+data/batches/
+data/smoke/
+
+# Local notes (do not commit)
+docs/06_blog.md

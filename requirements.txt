@@ -1,0 +1,10 @@
+numpy
+matplotlib
+torch
+transformers
+peft
+bitsandbytes
+accelerate
+modelscope
+safetensors
+
